@@ -5,4 +5,5 @@ Template URL: https://bootstrapmade.com/nice-admin-bootstrap-admin-html-template
 Author: BootstrapMade.com
 License: https://bootstrapmade.com/license/
 
-bug found
+Bug Found: Login file missing 
+Bug resolved: Login file added
